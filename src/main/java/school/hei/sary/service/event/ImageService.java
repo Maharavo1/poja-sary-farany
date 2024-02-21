@@ -20,7 +20,6 @@ import static org.reflections.Reflections.log;
 
 @PojaGenerated
 @Service
-@AllArgsConstructor
 @Slf4j
 public class ImageService {
 
