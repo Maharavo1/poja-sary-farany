@@ -9,7 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 import school.hei.sary.service.event.ConvertImageService;
 
 @RestController
-@AllArgsConstructor
 public class ConvertImageController {
     private final ConvertImageService convertImageService;
 
